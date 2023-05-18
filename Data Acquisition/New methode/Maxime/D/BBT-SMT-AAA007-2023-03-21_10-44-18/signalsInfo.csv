@@ -1,0 +1,5 @@
+signal,samplingrate,channels,samples,timestamps
+EEG,256,10,8,true
+IMU,32,9,1,true
+TMS,32,1,1,true
+UTC,32,1,1,true
